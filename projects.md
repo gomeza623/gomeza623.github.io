@@ -1,0 +1,1 @@
+For project 1, we practiced collaborating with others in GitHub by creating a collaborative repository, creating branches, staging and committing changes, and then reviewing pull requests. We finished the project by creating our own personal webpage. 
