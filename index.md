@@ -2,7 +2,7 @@
 I'm a PhD student at UC Berkeley's School of Social Welfare. My work focuses on the instrumental and emotional needs of parents and caregivers as a way to understand how to best promote systemic practices that prevent child welfare system involvement. Much of my research is shaped by my professional experiences working in home visiting, early education, and a group home for youth in foster care. 
 
 ## Publications
-Here are a current list of my peer-reviewed publications. If you're unable to access other articles using the DOI, feel free [email](anthonygomez@berkeley.edu) me to request a copy. 
+Here are a current list of my peer-reviewed publications. If you're unable to access other articles using the DOI, feel free to [email](anthonygomez@berkeley.edu) me to request a copy. 
 
 1. **Gómez, A.**, Karimli, L., Holguin, M., Chung, P., Szilagyi, P., & Schickedanz, A. (2021). Bills, babies, and (language) barriers: Associations among economic strain, parenting, and primary language during the newborn period. _Family Relations._ doi: [https://doi.org/10.1111/fare.12587](https://doi.org/10.1111/fare.12587) 
 
